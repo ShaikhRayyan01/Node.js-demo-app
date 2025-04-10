@@ -7,3 +7,4 @@ This is a basic Node.js application used to demonstrate a CI/CD pipeline with Gi
 ```bash
 npm install
 node app.js
+## Update to trigger CI/CD
